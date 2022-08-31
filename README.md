@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karimzadehz
+- 👋 Hi, I’m ZK_watery
 - 👀 I’m interested in coding in computational thermodynamic.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...

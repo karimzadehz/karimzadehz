@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding in computational thermodynamic, data acquisition, data processing and data science.
 - 🌱 I’m currently coding python, C, C++ and Fortran.
 - 💞️ I’m looking to collaborate on data logging.
+- Value Water everybody;)
 - 📫 How to reach me:  z.karimzadeh@gmail.com
 
 <!---
